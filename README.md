@@ -1,3 +1,3 @@
 # spark
-a example of apache spark.
-sbt run or import from eclipse and run.
+An example of apache spark.
+Do 'sbt run' or import this from eclipse and run.
